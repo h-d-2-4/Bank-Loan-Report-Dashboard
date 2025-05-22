@@ -26,7 +26,7 @@ This project features an Excel-based interactive dashboard built from a structur
 | **Excel Charts**          | Visualizing trends with bar, pie, column, and combo charts             |
 | **Excel Slicers**         | Adding interactive filters for user-friendly navigation                |
 | **Excel Formulas**        | Calculating KPIs using functions like `SUM`, `AVERAGE`, `IF`, etc.       |
-| **Power Query**           | Data transformation and cleaning before visualization (if applicable)  |
+| **Power Query**           | Data transformation and cleaning before visualization                |    
 | **Conditional Formatting**| Enhancing dashboard visuals by highlighting key values                   |
 
 ## 🗂️ Project Structure
