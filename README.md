@@ -58,10 +58,6 @@ The goal of this dashboard is to:
   - Loan Purpose
 - **Tree Map**: Home Ownership impact
 
-### 📋 Dashboard 3: Details
-- Full table with slicers
-- Filter by loan status, purpose, term, state, etc.
-
 ---
 
 ## 🛠️ Tools Used
