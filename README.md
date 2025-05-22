@@ -78,22 +78,6 @@ The goal of this dashboard is to:
 
 ---
 
-## 📁 Project Structure
-
-Bank-Loan-Report-Dashboard/
-│
-├── dataset/
-│ └── Bank_Loan_Report_ReadOnly.xlsx # Password-protected, editable only with access
-│
-├── images/
-│ └── dashboard-screenshot.png # Visual preview of the dashboard
-│
-├── docs/
-│ ├── Problem_Statement.md
-│ ├── Terminologies.md
-│ └── Domain_Knowledge.md
-
----
 
 
 
